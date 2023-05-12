@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Dani3lx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Dani3lx
+I am currently pursuing a Computer Science Specialist program at the University of Toronto, with a focus on software development and web development. I have hands-on experience working on projects in both fields, and am comfortable with various programming languages, including Python, Java, C, and SQL. As an ambitious and dedicated learner, I am constantly seeking new challenges and opportunities to contribute my skills and knowledge.
 
-<!---
-Dani3lx/Dani3lx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✉ You can reach me at
+- Discord: Dxniel#1959
+- Email: 1danielxu@gmail.com
+
+💼 Projects that I am working on
+- PDF editor website
