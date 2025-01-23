@@ -3,7 +3,7 @@ I am currently pursuing a Computer Science Specialist program at the University 
 
 # ✉ You can reach me at
 - Discord: Dxniel#1959
-- Email: 1danielxu@gmail.com
+- Email: 1xudani3l@gmail.com
 
 # 💼 Side Projects that I am working on
 - LLM powered study tool
